@@ -39,7 +39,7 @@ import com.laksamana.movio.ListFilm.Presentasi.Upcoming
 import com.laksamana.movio.ListFilm.Presentasi.ViewModelListFilm
 import com.laksamana.movio.ListFilm.Util.Screen
 
-//TODO: File ini mengatur halaman utama/halaman home dari app Filmopedia
+//TODO: File ini mengatur halaman utama/halaman home dari app movio
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun Home(navController: NavHostController) {

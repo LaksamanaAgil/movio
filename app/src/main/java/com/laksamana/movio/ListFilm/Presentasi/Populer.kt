@@ -15,7 +15,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.laksamana.movio.ListFilm.Util.Kategori
 
-//TODO: File ini mengatur halaman film terpopuler dalam app Filmopedia
+//TODO: File ini mengatur halaman film terpopuler dalam app movio
 @Composable
 fun Populer(
     movieListState: StateListFilm,
